@@ -1,0 +1,8 @@
+LangChain is a framework for building AI apps.
+It helps connect language models with your own data.
+RAG means Retrieval-Augmented Generation.
+
+Python is a programming language. It is easy to learn.
+Streamlit is used to build web apps. LangChain helps build AI apps.
+RAG combines search with AI models. Embeddings turn text into numbers.
+Vector stores save those numbers. Retrievers find the best matches.
